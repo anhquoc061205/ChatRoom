@@ -1,0 +1,12 @@
+@import "tailwindcss";
+:root{
+  --primary-color: #E45A92;
+  --secondery-color: #5D2F77;
+  --default-color: #5D2F77;
+  --natural-color: #FFACAC;
+}
+body{
+  background: var(--default-color);
+ color: aliceblue;
+}
+
